@@ -8,5 +8,5 @@ Sample `.txt` files are provided for safe testing.
 python3 encrypt.py
 
 # 2. Decrypt files
-# Decrypts all files when the correct phrase is entered
+#Prompts the user for the secret phrase, then decrypts files if the input is correct.
 python3 decrypt.py
